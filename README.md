@@ -5,3 +5,4 @@
 * https://www.typewizz.com/
 * https://www.keybr.com/
 * https://www.typingclub.com/
+* https://monkeytype.com/
